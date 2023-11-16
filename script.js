@@ -11,4 +11,5 @@ function fibonacci(num) {
 let a=0; 
 let b=1;
 module.exports = fibonacci;
-alert(fibonacci(5));
+let d=prompt("number");
+alert(fibonacci(d));
